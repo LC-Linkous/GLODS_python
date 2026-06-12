@@ -476,4 +476,4 @@ using Direct Search, Journal of Global Optimization, 62 (2014), 1 - 28
 
 ## Licensing
 
-The code in this repository has been released under GPL-2.0
+The code in this repository has been released under GPL-2.0 until confirming the preference of the authors. If there is a mismatch, defer to their license over the one in the repo until the repo is corrected. 
